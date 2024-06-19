@@ -16,8 +16,6 @@ In either case, it will print the text to the POS-58 printer.
 
 ## Future Enhancements
 
-* Font size control (spin box/text box)
-* Font control (dropdown/text box)
 * Printer Picker (drodown)
 * Accept file, detect format:
     - if an ICS-213 (Winlink format), print the relevant data
